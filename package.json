@@ -1,0 +1,12 @@
+{
+  "name": "js-strategy-pattern",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "CodeValve",
+  "license": "MIT",
+  "description": "Implementing the Strategy Pattern in JavaScript for Arithmetic Operations"
+}
